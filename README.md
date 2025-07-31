@@ -4,6 +4,7 @@
    proudly sponsored by Limerick ETB. 
    
    💻✨ Here, I am practicing: 
+   
    •  ✏️ Python fundamentals (variables, loops, functions, data types)  
    •  📂 Basic file handling & scripting  
    •  🌱 Foundational skills that will prepare me for RPA automation in the future
