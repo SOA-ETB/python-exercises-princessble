@@ -10,6 +10,7 @@
 
 🙏 Appreciation 
 I am sincerely grateful to: 
+
 •  Waseem Butt 🎯 — for being an amazing instructor, simplifying Python concepts and guiding my learning journey  
 •  Limerick ETB 🇮🇪 — for giving me this opportunity to grow my skills and step into automation and tech   
 
